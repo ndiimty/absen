@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853597504560",
+    "firebase_url": "https://golqi-absen-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "golqi-absen",
+    "storage_bucket": "golqi-absen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853597504560:android:2677e68fa0abd66d85d9f5",
+        "android_client_info": {
+          "package_name": "com.example.absens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9txdOHsXrr66eknzKJnmZGx52INQDMN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">absens</string>
+    <string name="open">Buka</string>
+    <string name="close">Tutup</string>
+</resources>
